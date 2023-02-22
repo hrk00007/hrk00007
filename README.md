@@ -1,9 +1,12 @@
 <!-- <h1 align="center">Hi 👋, I'm Hritik Manbattulwar</h1> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrk00007&label=Profile%20views&color=0e75b6&style=flat" alt="hrk00007" /> </p>
+
 # 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Hritik+Manbattulwar!;A+Full+Stack+Web-Developer...;Java+Enthusiasts...;)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Hritik+Manbattulwar!;A+Full+Stack+Web-Developer...;Java+Enthusiasts...;)](https://git.io/typing-svg) 
 <h3 align="center">I am a Graduate Majored in Computer Science Engineering, familiar with a range of development techniques and tools. Skilled in both frontend and backend technologies including Java, HTML/CSS3,Bootstrap, Spring-boot, Restful API, SQL,NOSQL, JavaScript, NodeJS and ReactJS. I have a good knowledge of the design of user interfaces, restful API, Webservices and problem solving.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrk00007&label=Profile%20views&color=0e75b6&style=flat" alt="hrk00007" /> </p>
+---
 
 - 🌱 I’m currently learning **microservices , spring cloud**
 
@@ -13,9 +16,6 @@
 
 - 📫 How to reach me **manbattulwarhritik@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
