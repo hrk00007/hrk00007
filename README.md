@@ -116,7 +116,7 @@
 ---
 
 ## &#x1f4c8; My GitHub Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hrk00007&theme=gruvbox" alt="hrk00007"  /></p>
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hrk00007&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="hrk00007" /></p>
 <hr>
 <h3 align="center">
@@ -124,18 +124,7 @@
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=hrk00007&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi"/></p>
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=hrk00007&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
 
-<hr>
-<br><br>
-<p align="center">
-  <img alt="Hamza's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=hrk00007&theme=gruvbox&hide_border=true&area=true" /></a>
-</p>
-<!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=hrk00007&theme=gruvbox&hide_border=true&area=true) -->
-<hr>
-<br><br>
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=hrk00007&theme=gruvbox" />
 
 
 <br/>
