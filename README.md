@@ -155,3 +155,5 @@
 <a href="https://auth.geeksforgeeks.org/user/hritikmanbattulwar" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hritikmanbattulwar" height="30" width="40" /></a>
 </p>
+</br>
+![Snake animation](https://github.com/hrk00007/hrk00007/blob/output/github-contribution-grid-snake.svg)
