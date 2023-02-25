@@ -119,7 +119,7 @@
 
 <div>
   <a href="https://github.com/hrk00007">
-  &emsp;&emsp;&emsp;&emsp;&emsp;
+  &emsp;&emsp;&emsp;&emsp;
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrk00007&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi"/>&emsp;&emsp;&emsp;&emsp;&emsp;
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hrk00007&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
