@@ -117,12 +117,14 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hrk00007&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="hrk00007" /></p>
-<hr>
-<h3 align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></h3>
+<div>
+  <a href="https://github.com/hrk00007">
+  &emsp;&emsp;&emsp;&emsp;&emsp;
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrk00007&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi"/>&emsp;&emsp;&emsp;&emsp;&emsp;
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hrk00007&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide=issues"/>
+</div>
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=hrk00007&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi"/></p>
+
 
 
 
